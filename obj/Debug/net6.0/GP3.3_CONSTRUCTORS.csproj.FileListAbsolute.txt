@@ -1,0 +1,15 @@
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\bin\Debug\net6.0\GP3.3_CONSTRUCTORS.exe
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\bin\Debug\net6.0\GP3.3_CONSTRUCTORS.deps.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\bin\Debug\net6.0\GP3.3_CONSTRUCTORS.runtimeconfig.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\bin\Debug\net6.0\GP3.3_CONSTRUCTORS.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\bin\Debug\net6.0\GP3.3_CONSTRUCTORS.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.csproj.AssemblyReference.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.AssemblyInfoInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.AssemblyInfo.cs
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\refint\GP3.3_CONSTRUCTORS.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\GP3.3_CONSTRUCTORS.genruntimeconfig.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.3_Constructors\obj\Debug\net6.0\ref\GP3.3_CONSTRUCTORS.dll

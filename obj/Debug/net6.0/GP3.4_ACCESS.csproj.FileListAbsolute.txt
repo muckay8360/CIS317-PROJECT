@@ -1,0 +1,15 @@
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.csproj.AssemblyReference.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.AssemblyInfoInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.AssemblyInfo.cs
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\bin\Debug\net6.0\GP3.4_ACCESS.exe
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\bin\Debug\net6.0\GP3.4_ACCESS.deps.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\bin\Debug\net6.0\GP3.4_ACCESS.runtimeconfig.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\bin\Debug\net6.0\GP3.4_ACCESS.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\bin\Debug\net6.0\GP3.4_ACCESS.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\refint\GP3.4_ACCESS.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\GP3.4_ACCESS.genruntimeconfig.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.4_Access\obj\Debug\net6.0\ref\GP3.4_ACCESS.dll

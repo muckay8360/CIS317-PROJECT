@@ -1,0 +1,15 @@
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.AssemblyInfo.cs
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\bin\Debug\net6.0\PA2.4_Polymorphism.exe
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\bin\Debug\net6.0\PA2.4_Polymorphism.deps.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\bin\Debug\net6.0\PA2.4_Polymorphism.runtimeconfig.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\bin\Debug\net6.0\PA2.4_Polymorphism.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\bin\Debug\net6.0\PA2.4_Polymorphism.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\refint\PA2.4_Polymorphism.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\PA2.4_Polymorphism.genruntimeconfig.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\ref\PA2.4_Polymorphism.dll

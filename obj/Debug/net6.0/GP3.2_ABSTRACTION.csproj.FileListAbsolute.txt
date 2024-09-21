@@ -1,0 +1,15 @@
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\bin\Debug\net6.0\GP3.2_ABSTRACTION.exe
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\bin\Debug\net6.0\GP3.2_ABSTRACTION.deps.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\bin\Debug\net6.0\GP3.2_ABSTRACTION.runtimeconfig.json
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\bin\Debug\net6.0\GP3.2_ABSTRACTION.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\bin\Debug\net6.0\GP3.2_ABSTRACTION.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.csproj.AssemblyReference.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.AssemblyInfoInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.AssemblyInfo.cs
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\refint\GP3.2_ABSTRACTION.dll
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.pdb
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\GP3.2_ABSTRACTION.genruntimeconfig.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\GP3.2_Abstraction\obj\Debug\net6.0\ref\GP3.2_ABSTRACTION.dll

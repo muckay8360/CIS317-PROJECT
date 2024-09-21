@@ -1,0 +1,5 @@
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\GP2.4_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\GP2.4_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\GP2.4_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\GP2.4_Polymorphism.AssemblyInfo.cs
+C:\Users\student\Documents\CIS317\GP1.3_Inheritance_Kaya\PA2.4_Polymorphism\obj\Debug\net6.0\GP2.4_Polymorphism.csproj.CoreCompileInputs.cache

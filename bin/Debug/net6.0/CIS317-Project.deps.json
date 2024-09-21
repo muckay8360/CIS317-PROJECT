@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CIS317-Project/1.0.0": {
+        "runtime": {
+          "CIS317-Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIS317-Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
