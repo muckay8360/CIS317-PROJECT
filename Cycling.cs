@@ -10,8 +10,10 @@
 
 public class Cycling : AerobicExercise
 {
+    public Cycling(int id, float time, float weight)
+        : base(id, time, "Cycling", weight) {} 
     public Cycling(float time, float weight)
-        : base(time, "Cycling", weight) {} 
+        : base(time, "Cycling", weight) {}        
     public override float CalculateCalories()
     {
         return 0.08f *  Weight * Time;

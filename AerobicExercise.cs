@@ -10,12 +10,14 @@
 
 public class AerobicExercise : Exercise
 {
+    public AerobicExercise(int id, float time, string exerciseName, float weight) :
+    base(id, time, exerciseName, weight) {}
     public AerobicExercise(float time, string exerciseName, float weight) :
     base(time, exerciseName, weight) {}
 
     public override float CalculateCalories()
     {
-        return 0.0175f * 8 * Weight * (Time / 60);
+        return 0.045f *  Weight * Time;
     }
     public override string ToString()
     {

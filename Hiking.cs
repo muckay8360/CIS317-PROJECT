@@ -10,10 +10,13 @@
 
 public class Hiking : AerobicExercise
 {
+    public Hiking(int id, float time, float weight)
+        : base(id, time, "Hiking", weight) {} 
     public Hiking(float time, float weight)
         : base(time, "Hiking", weight) {} 
      public override float CalculateCalories()
     {
         return 0.045f *  Weight * Time;
-    }       
+    } 
+          
 }

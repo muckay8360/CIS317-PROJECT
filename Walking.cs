@@ -10,6 +10,8 @@
 
 public class Walking : AerobicExercise
 {
+    public Walking(int id,float time, float weight)
+        : base(id, time, "Walking", weight) {}
     public Walking(float time, float weight)
         : base(time, "Walking", weight) {}
    

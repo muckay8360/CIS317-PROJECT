@@ -10,6 +10,8 @@
 
 public class Weightlifting : AerobicExercise
 {
+    public Weightlifting(int id, float time, float weight)
+        : base(id ,time, "Weightlifting", weight) {} 
     public Weightlifting(float time, float weight)
         : base(time, "Weightlifting", weight) {} 
      public override float CalculateCalories()
