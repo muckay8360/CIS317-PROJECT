@@ -13,7 +13,7 @@ Exercise Calculator is a application to provide users with calculations and gene
  - Create wireframe and class definitions
  - Determine methods and variables
 -** Task3: Develop the skeleton
- - Create the classes and variables using
+ - Create the classes and variables 
  - Determined variables and methods
  - Check class connections and references
 -** Task4:Implement Functions
